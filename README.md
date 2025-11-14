@@ -6,21 +6,19 @@
 
 ## 📥 Скачать
 
-<<<<<<< HEAD
 Последняя версия: **v2.0.0-gui**
 
-- 🪟 [mcv.exe/mcv-gui.exe](https://github.com/KnopMops/media-converter/releases) - для Windows
+- 🪟 [mcv.exe/mcv-gui_v2.0.0.exe](https://github.com/KnopMops/media-converter/releases/tag/2.0.1-gui) - для Windows
 =======
 Последняя версия: **v2.0.1**
 
-- 🪟 [mcv.exe](https://github.com/media-converter/media-converter/releases/download/v2.0.0/mcv.exe) - для Windows
->>>>>>> 41141c2 (v2.0.1)
+- 🪟 [mcv.exe/mcv-gui_v2.0.1.zip](https://github.com/KnopMops/media-converter/releases/tag/2.0.1-gui) - для Windows
 
 ## 🚀 Быстрый старт
 
 ### Для Windows:
 
-1. Скачайте `mcv.exe` или `mcv-gui.exe` из раздела [Releases](https://github.com/KnopMops/media-converter/releases)
+1. Скачайте `mcv.exe` или `mcv-gui_v2.0.1.zip` из раздела [Releases](https://github.com/KnopMops/media-converter/releases/tag/2.0.1-gui)
 2. Установите [FFmpeg](https://ffmpeg.org/download.html) и добавьте в PATH
 3. Запускайте из командной строки!
 
